@@ -76,3 +76,6 @@ This repository contains the code for a **Journal Website** built using the MERN
 ## Contact
 For any inquiries or feedback, please contact: **your-email@example.com**.
 
+## Deployed at:
+secrets-forever.vercel.app
+
